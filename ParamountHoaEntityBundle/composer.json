@@ -1,0 +1,8 @@
+{
+    "name": "ParamountHoa/ParamountHoaEntityBundle",
+    "version": "dev-master",
+    "dist": {
+        "url": "https://github.com/phpthug/ParamountEntityBundle",
+        "type": "vcs"
+    }
+}
